@@ -1,0 +1,2 @@
+# hubot-plugin-test
+test
